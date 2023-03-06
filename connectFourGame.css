@@ -1,4 +1,14 @@
+body{
+    height: fit-content;
+    width:auto;  
+}
+
 .board{
+    
+    height: fit-content;
+    width: fit-content;
+
+    align-items: safe;
     margin: auto;
 }
 .board button{
