@@ -1,12 +1,11 @@
 body{
-    height: fit-content;
-    width:auto;  
+    margin: auto;
 }
 
 .board{
     
-    height: fit-content;
-    width: fit-content;
+    height: min-content;
+    width: min-content;
 
     align-items: safe;
     margin: auto;
